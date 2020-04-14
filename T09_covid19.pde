@@ -5,7 +5,7 @@
 	DESCRIPTION
     	This sketch maps current COVID-19 data.
     
-    	Inspired by the John Hopkins University tracker:
+    	Inspired by the Johns Hopkins University tracker:
     		https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
     	The code demonstrates:
